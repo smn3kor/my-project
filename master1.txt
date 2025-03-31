@@ -1,5 +1,8 @@
 add file
 edit
+<<<<<<< HEAD
 edit
 edit
+=======
+>>>>>>> 2nd-branch
 edit
